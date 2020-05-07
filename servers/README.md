@@ -1,4 +1,4 @@
-This is a proxy server that allows for testing the scneario where the
+This is a proxy server that allows for testing the scenario where the
 registration confirmation request happens in the background and takes longer
 than the 30 seconds that iOS allows.
 
